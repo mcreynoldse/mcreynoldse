@@ -1,0 +1,61 @@
+<html>
+<title>WRA FAB </title>
+<head>
+<style>
+header {
+    background-color:yellow;
+    color:black;
+    text-align:center;
+    padding:5px;	 
+}
+nav {
+    line-height:30px;
+    background-color:yellow;
+    height:150px;
+    width:150px;
+    float:left;
+    padding:49px;	      
+}
+section {
+    width:320px;
+    float:center;
+    padding:10px;	 	 
+}
+footer {
+    background-color:purple;
+    color:brown;
+    text-align:center;
+    padding:15px;	
+}
+body { background-image:url('CTIC.jpg');
+background-repeat:no-repeat;
+background-position:center;
+width="1280"; height="960";
+background-color:black;}
+h1 {font-family:helvetica; font-size:200%;text-align:center;}
+h2 {font-family:helvetica; font-size:150%;text-align:center;}
+h3 {font-family:helvetica; font-size:125%;text-align:center;}
+p {font-family:helvetica;font-size:}100%;}
+a {font-family:helvetica;font-size:}100%;}
+</style>
+</head>
+<body>
+<header>
+<h1>emerson's life</h1>
+</header>
+
+<nav>
+<p>
+<a href="course.html">my life</a>
+<br>
+<a href="schedule19s.html">about me</a>
+<br>
+<a href="students19s.html">friends</a>
+<br>
+<a href="resources.html">Resources</a>
+<br>
+<a href="final1.html">pictures</a>
+<br>
+<a href="archive.">more pictures</a>
+<br>
+</p>
